@@ -1,4 +1,4 @@
-# Copy-the-link-to-your-GitHub-repo-e.g.-https-giWeek1-StudentPerformance-EDA
+
 StudentsPerformance.csv – raw data
 
 Week1‑StudentPerformance‑EDA.ipynb – analysis notebook
